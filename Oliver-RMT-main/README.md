@@ -5,8 +5,7 @@
 This is the working repository for the Toronto Island Wellness webpage.
 
 It is a collection of the work done for the page,
-a to-do list for the project, and a tracking sheet 
-for Credensos spent working on the project.
+a to-do list for the project, and a step-by-step instructional on how to add TIW weekly wellness update to website as articles.
 
 ### To Do List
 - [x] Static Site - End of December
@@ -18,8 +17,12 @@ for Credensos spent working on the project.
         - [x] Privacy
         - [x] Cancellation
     - [x] Booking
-    - [x] Requested edits
-
+    - [x] Requested edit
+     
+- [ ] article templates
+    - [ ]upload atticle template HTml
+    - [ ]add link to sign up to constant contact
+    - [ ]
 
 - [ ] Publish on oliver-rmt.com
 
@@ -29,16 +32,8 @@ for Credensos spent working on the project.
 - [ ] Blog - No ETA
 
 
-### Work Log
-- Nov 5th - Project Bootstrap - ©12
-- Nov 7th - Main Page v1 - ©12
-- Nov 7th - Project Roadmap - ©6
-- Nov 7th - About Page - ©6
-- Nov 13th - About Massage - ©6
-- Nov 13th - About, Privacy, Cancellation, Booking - ©24
-- Nov 14th - Requested edits - ©11
-- Nov 20th - About Page writing - ©6
-- [Invoice for ©83](https://credenso.cafe/invoice.html?total=83&member=Zen)
-
-Total to date: ©83
-
+### instruction for creating new articles
+- locate (templateArticle)
+- coppy and rename to articale topic 
+- replace ([Title Placeholder], [Introduction Placeholder], [Article 1 Title Placeholder], [Article 1 Content Placeholder], [Article 2 Title Placeholder], [Article 2 Content Placeholder], [Article 3 Title Placeholder], [Article 3 Content Placeholder], and [Closing Statement Placeholder]) with actual content.
+- Add Images. in each article title section (article-header) contains an image with a dark overlay to ensure the text is readable. You can replace images/article1-placeholder.jpg, images/article2-placeholder.jpg, and images/article3-placeholder.jpg with the actual paths to your images. The brightness filter and the overlay achieve the darkening effect.

@@ -1,0 +1,146 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Article Template - Toronto Island Wellness</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="icon" href="images/favicon.png" />
+		<style>
+			.article-header {
+				position: relative;
+				color: white;
+				text-align: center;
+				padding: 50px 20px;
+				margin: 30px 0;
+			}
+			.article-header img {
+				width: 100%;
+				height: auto;
+				filter: brightness(70%);
+			}
+			.article-header .overlay {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 100%;
+				height: 100%;
+				background: rgba(0, 0, 0, 0.3);
+				z-index: 1;
+			}
+			.article-header h2 {
+				position: relative;
+				z-index: 2;
+			}
+			.signup-form {
+				margin-top: 20px;
+				text-align: center;
+			}
+		</style>
+	</head>
+	<body class="is-preload">
+		
+		<!-- Header -->
+		<header id="header">
+				<nav>
+					<ul class="nav">
+						<li><a href="index.html">Home</a></li>
+						<li>
+							<a href="about.html">Learn More</a>
+							<ul>
+								<li><a href="massage.html">About Massage</a></li>
+								<li><a href="privacy.html">Privacy Policy</a></li>
+								<li><a href="cancellation.html">Cancellation Policy</a></li>
+							</ul>
+						</li>
+					</ul>
+				</nav>
+				<div id="logo">
+					<a href="index.html">
+						<img class="image logo" src="images/logo.png" alt="Toronto Island Wellness" />
+					</a>
+				</div>
+				<nav>
+					<ul class="nav">
+						<li><a href="team.html">Meet Us</a></li>
+						<li><a href="booking.html">Booking</a></li>
+					</ul>
+				</nav>
+			</header>
+
+		<!-- Main -->
+			<div id="main" class="wrapper">
+				<div class="inner">
+					<!-- Title Placeholder -->
+					<h1 class="major">[Title Placeholder]</h1>
+					
+					<!-- Introduction Placeholder -->
+					<p>[Introduction Placeholder]</p>
+
+					<!-- Article 1 Placeholder -->
+					<div class="article-header">
+						<img src="images/article1-placeholder.jpg" alt="[Article 1 Image Placeholder]" />
+						<div class="overlay"></div>
+						<h2>[Article 1 Title Placeholder]</h2>
+					</div>
+					<p>[Article 1 Content Placeholder]</p>
+
+					<!-- Article 2 Placeholder -->
+					<div class="article-header">
+						<img src="images/article2-placeholder.jpg" alt="[Article 2 Image Placeholder]" />
+						<div class="overlay"></div>
+						<h2>[Article 2 Title Placeholder]</h2>
+					</div>
+					<p>[Article 2 Content Placeholder]</p>
+
+					<!-- Article 3 Placeholder -->
+					<div class="article-header">
+						<img src="images/article3-placeholder.jpg" alt="[Article 3 Image Placeholder]" />
+						<div class="overlay"></div>
+						<h2>[Article 3 Title Placeholder]</h2>
+					</div>
+					<p>[Article 3 Content Placeholder]</p>
+
+					<!-- Closing Statement Placeholder -->
+					<p>[Closing Statement Placeholder]</p>
+
+					<!-- Constant Contact Inline Form -->
+					<div class="signup-form">
+						<!-- Begin Constant Contact Inline Form Code -->
+						<div class="ctct-inline-form" data-form-id="cf19b942-f188-4dba-b8e0-cf58abced988"></div>
+						<!-- End Constant Contact Inline Form Code -->
+					</div>
+				</div>
+			</div>
+
+		<!-- Footer -->
+			<section id="footer">
+				<div class="inner">
+					<header>
+						<h2>Get in Touch</h2>
+						<p>Drop us a line in one of these ways.</p>
+					</header>
+					<ul class="icons">
+						<li><a href="https://www.instagram.com/toronto_island_wellness/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="mailto:oliverbeermt@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<div class="copyright">
+						&copy;redenso
+					</div>
+				</div>
+			</section>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<!-- Constant Contact Inline Form Script -->
+			<script src="https://static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
+	</body>
+</html>
